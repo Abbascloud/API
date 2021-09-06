@@ -1,10 +1,10 @@
 {
-    "amount": 50,
+    "amount": 20,
     "countGoods": 2,
     "contents": [{
             "id": 1,
             "title": "rose",
-            "price": 10,
+            "price": 15,
             "description": "Roses are erect, climbing, or trailing shrubs, the stems of which are usually copiously armed with prickles of various shapes and sizes, commonly called thorns. The leaves are alternate and pinnately compound ",
             "img": "rose.jpg"
         },
