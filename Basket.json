@@ -5,6 +5,7 @@
             "id": 1,
             "title": "rose",
             "price": 15,
+            "quantity": 2,
             "description": "Roses are erect, climbing, or trailing shrubs, the stems of which are usually copiously armed with prickles of various shapes and sizes, commonly called thorns. The leaves are alternate and pinnately compound ",
             "img": "rose.jpg"
         },
@@ -12,6 +13,7 @@
             "id": 2,
             "title": "tulip",
             "price": 5,
+            "quantity": 1,
             "description": "Tulips (Tulipa) are a genus of spring-blooming perennial herbaceous bulbiferous geophytes (having bulbs as storage organs). The flowers are usually large, showy and brightly colored, generally red, pink, yellow, or white (usually in warm colors).",
             "img": "tulip.jpg"
         }
