@@ -29,7 +29,7 @@
     {
         "id": 5,
         "title": "chamomile",
-        "price": 15,
+        "price": 5,
         "description": "Roses are erect, climbing, or trailing shrubs, the stems of which are usually copiously armed with prickles of various shapes and sizes, commonly called thorns. The leaves are alternate and pinnately compound ",
         "img": "rose.jpg"
     },
@@ -43,14 +43,14 @@
     {
         "id": 7,
         "title": "chrysanthemum",
-        "price": 15,
+        "price": 10,
         "description": "is a genus of plants in the Asteraceae (daisy family). ... Gerbera is also commonly known as the African daisy. Gerbera species bear a large capitulum with striking, two-lipped ray florets in yellow, orange, white, pink or red colours.",
         "img": "gerbera.jpg"
     },
     {
         "id": 8,
-        "title": "lily",
-        "price": 20,
+        "title": "snowdrop",
+        "price": 30,
         "description": "The true lilies are erect perennial plants with leafy stems, scaly bulbs, usually narrow leaves, and solitary or clustered flowers. ... Plants of most species range in height from 30 to 120 cm (1 to 4 feet); plants of certain species, however, exceed 2.5 metres (8 feet) in height. ",
         "img": "lily.jpg"
     }
