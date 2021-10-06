@@ -30,28 +30,28 @@
         "id": 5,
         "title": "chamomile",
         "price": 5,
-        "description": "Roses are erect, climbing, or trailing shrubs, the stems of which are usually copiously armed with prickles of various shapes and sizes, commonly called thorns. The leaves are alternate and pinnately compound ",
+        "description": "Definition. Chamomile is a plant that has been used since ancient Egypt in a variety of healing applications. Chamomile is a native of the Old World; it is related to the daisy family, having strongly scented foliage and flowers with white petals and yellow centers. ",
         "img": "rose.jpg"
     },
     {
         "id": 6,
         "title": "mimosa",
         "price": 5,
-        "description": "Tulips (Tulipa) are a genus of spring-blooming perennial herbaceous bulbiferous geophytes (having bulbs as storage organs). The flowers are usually large, showy and brightly colored, generally red, pink, yellow, or white (usually in warm colors).",
+        "description": "he mimosa flower is a genus of roughly 400 different shrubs and herbs. ... Mimosa plant is a beautiful tree which produces yellow flowers that bloom in winter. It goes by many names including acacia dealbata (scientific name) and the silver wattle or blue wattle",
         "img": "tulip.jpg"
     },
     {
         "id": 7,
         "title": "chrysanthemum",
         "price": 10,
-        "description": "is a genus of plants in the Asteraceae (daisy family). ... Gerbera is also commonly known as the African daisy. Gerbera species bear a large capitulum with striking, two-lipped ray florets in yellow, orange, white, pink or red colours.",
+        "description": "The species of chrysanthemum have fibrous root system (shallow rooted plant), herbaceous perennial plant growing to 50-150 cm tall, with deeply lobed leaves and large flower heads, white, yellow or pink. Chrysanthemum requires long days for good vegetative growth and short days for flowering.",
         "img": "gerbera.jpg"
     },
     {
         "id": 8,
         "title": "snowdrop",
         "price": 30,
-        "description": "The true lilies are erect perennial plants with leafy stems, scaly bulbs, usually narrow leaves, and solitary or clustered flowers. ... Plants of most species range in height from 30 to 120 cm (1 to 4 feet); plants of certain species, however, exceed 2.5 metres (8 feet) in height. ",
+        "description": " Snowdrops bear dainty, 1-inch hanging flowers on 6-inch stems. The flowers are white with greenish inner petals. When grown in large masses, the combined fragrance perfumes the air. The leaves are straplike or grassy, appearing with the flowers and fading away in late spring.",
         "img": "lily.jpg"
     }
 ]
